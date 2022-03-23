@@ -1,0 +1,15 @@
+C:\Users\isama\OneDrive\Documentos\Ensino Médio - 3º ano\LP3 331\Dotnet\Semana2\bin\Debug\net6.0\Semana2.exe
+C:\Users\isama\OneDrive\Documentos\Ensino Médio - 3º ano\LP3 331\Dotnet\Semana2\bin\Debug\net6.0\Semana2.deps.json
+C:\Users\isama\OneDrive\Documentos\Ensino Médio - 3º ano\LP3 331\Dotnet\Semana2\bin\Debug\net6.0\Semana2.runtimeconfig.json
+C:\Users\isama\OneDrive\Documentos\Ensino Médio - 3º ano\LP3 331\Dotnet\Semana2\bin\Debug\net6.0\Semana2.dll
+C:\Users\isama\OneDrive\Documentos\Ensino Médio - 3º ano\LP3 331\Dotnet\Semana2\bin\Debug\net6.0\Semana2.pdb
+C:\Users\isama\OneDrive\Documentos\Ensino Médio - 3º ano\LP3 331\Dotnet\Semana2\obj\Debug\net6.0\Semana2.csproj.AssemblyReference.cache
+C:\Users\isama\OneDrive\Documentos\Ensino Médio - 3º ano\LP3 331\Dotnet\Semana2\obj\Debug\net6.0\Semana2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isama\OneDrive\Documentos\Ensino Médio - 3º ano\LP3 331\Dotnet\Semana2\obj\Debug\net6.0\Semana2.AssemblyInfoInputs.cache
+C:\Users\isama\OneDrive\Documentos\Ensino Médio - 3º ano\LP3 331\Dotnet\Semana2\obj\Debug\net6.0\Semana2.AssemblyInfo.cs
+C:\Users\isama\OneDrive\Documentos\Ensino Médio - 3º ano\LP3 331\Dotnet\Semana2\obj\Debug\net6.0\Semana2.csproj.CoreCompileInputs.cache
+C:\Users\isama\OneDrive\Documentos\Ensino Médio - 3º ano\LP3 331\Dotnet\Semana2\obj\Debug\net6.0\Semana2.dll
+C:\Users\isama\OneDrive\Documentos\Ensino Médio - 3º ano\LP3 331\Dotnet\Semana2\obj\Debug\net6.0\refint\Semana2.dll
+C:\Users\isama\OneDrive\Documentos\Ensino Médio - 3º ano\LP3 331\Dotnet\Semana2\obj\Debug\net6.0\Semana2.pdb
+C:\Users\isama\OneDrive\Documentos\Ensino Médio - 3º ano\LP3 331\Dotnet\Semana2\obj\Debug\net6.0\Semana2.genruntimeconfig.cache
+C:\Users\isama\OneDrive\Documentos\Ensino Médio - 3º ano\LP3 331\Dotnet\Semana2\obj\Debug\net6.0\ref\Semana2.dll
